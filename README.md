@@ -157,6 +157,7 @@ Clustering should be executed from a script or notebook after generating `df_lig
 ## Author
 
 Project developed by David Jacobs
+
 Data Science applied to football analytics  
 
 ---
