@@ -1,0 +1,5 @@
+## Data
+
+The datasets used in this project are generated via web scraping and are not included in the repository.
+
+To reproduce the data, use python src/scraping.py
