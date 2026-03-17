@@ -1,6 +1,6 @@
 # Quiniela Analysis: Web Scraping, EDA & Unsupervised Learning
 
-This project analyzes Spanish football betting data (Quiniela) through a complete data science pipeline:
+This project analyzes Spanish football betting data (Quiniela) through a data science pipeline:
 
 - Web scraping of real probabilities and results  
 - Exploratory Data Analysis (EDA)  
@@ -23,6 +23,7 @@ quiniela-analysis/
 ├── data/                  # Generated datasets (not included)
 │   └── .gitkeep
 │
+├── .gitignore
 ├── README.md
 ├── LICENSE
 └── requirements.txt
