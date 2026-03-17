@@ -16,14 +16,12 @@ The goal is to understand patterns in match outcome probabilities and evaluate t
 quiniela-analysis/
 │
 ├── src/
-│   ├── scraping.py        # Data extraction from API
-│   ├── eda.py             # Data cleaning, feature engineering and EDA
-│   └── clustering.py      # Unsupervised learning (KMeans, GMM, DBSCAN)
+│   ├── 01_scraping.py        # Data extraction from API
+│   ├── 02_eda.py             # Data cleaning, feature engineering and EDA
+│   └── 03_clustering.py      # Unsupervised learning (KMeans, GMM, DBSCAN)
 │
 ├── data/                  # Generated datasets (not included)
 │   └── .gitkeep
-│
-├── notebooks/             # (Optional) exploratory notebooks
 │
 ├── README.md
 ├── LICENSE
